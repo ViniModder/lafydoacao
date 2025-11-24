@@ -1,7 +1,7 @@
 # 📡 Lafy — Mantido pela Comunidade
 
 [![Status](https://img.shields.io/badge/Lafy-Online-brightgreen)]()
-[![Doação](https://img.shields.io/badge/Apoie%20o%20Projeto-Donate-blue)]()
+[![Doação](https://img.shields.io/badge/Apoie%20o%20Projeto-Donate-blue)](https://app.pushinpay.com.br/service/pay/A0193FAC-ADD8-43A3-AAFF-43EA75FFF2D9/a06e4aad-bad5-43b3-9f18-291b92381b84)
 [![License](https://img.shields.io/badge/Projeto-Comunitário-orange)]()
 
 Obrigado por estar com a gente mais uma vez!  
@@ -18,7 +18,7 @@ Para manter servidores, estrutura e melhorias contínuas, aceitamos contribuiç�
 👉 **Link para doação (seguro):**  
 https://app.pushinpay.com.br/service/pay/A0193FAC-ADD8-43A3-AAFF-43EA75FFF2D9/a06e4aad-bad5-43b3-9f18-291b92381b84  
 
-Este é o **mesmo sistema de pagamento utilizado em nossa loja**, confiável e amplamente usado.
+Este é o **mesmo sistema de pagamento utilizado em nossa loja**, totalmente confiável.
 
 ---
 
@@ -26,9 +26,9 @@ Este é o **mesmo sistema de pagamento utilizado em nossa loja**, confiável e a
 
 - Mantém o Lafy disponível 24h  
 - Cobre custos de infraestrutura e servidores  
-- Ajuda na estabilidade para todos os usuários  
-- Permite atualizações, correções e melhorias  
-- Mantém o projeto vivo por muito mais tempo  
+- Garante estabilidade para todos os usuários  
+- Permite atualizações, correções e melhorias constantes  
+- Ajuda a manter o projeto vivo e ativo por muito mais tempo  
 
 Cada contribuição realmente faz a diferença!
 
@@ -36,8 +36,8 @@ Cada contribuição realmente faz a diferença!
 
 ## 📬 Agradecimento
 
-Agradecemos de coração a todos que ajudam o projeto a continuar.  
-Vocês são parte essencial do Lafy.
+Agradecemos de coração a todos que apoiam e ajudam o Lafy a continuar existindo.  
+Vocês são parte essencial deste projeto.
 
 ---
 
@@ -45,13 +45,5 @@ Vocês são parte essencial do Lafy.
 
 - Projeto 100% comunitário  
 - Uso livre conforme regras da comunidade  
-- Melhorias constantes de acordo com o feedback dos usuários  
+- Melhorias contínuas baseadas no feedback dos usuários  
 
----
-
-Se quiser, posso:
-- adicionar imagens,
-- colocar seu logo,
-- gerar uma versão mais curta,
-- criar uma versão em inglês,
-- ou colocar isso direto na canvas como arquivo `README.md`.
